@@ -1,4 +1,4 @@
-### Hi there 👋
+### https://ceti.kaush.com/ <-- Visit my website to learn more about me and my projects
 I'm Chancellor Ceti. I code mainly in Rust, C, and Javascript, but I also have experience with Typescript, Python, and Julia. I enjoy studying mathematics and physics (favorite areas are number theory, statistics, and electrodynamics) and am hoping to pursue a career as a theoretical physicist. I'm currently working on my [C email program](https://github.com/ChancellorCeti/white-rabbit), improving some of my older projects, and writing more [blog posts](https://ceti.kaush.com). 
 
 Outside of my STEM interests, I also like reading, watching movies, learning languages, and chatting on Discord.
