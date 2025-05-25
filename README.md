@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Chancellor Ceti. I code mainly in Rust, C, and Javascript, but I also have experience with Typescript, Python, and Julia. I enjoy studying mathematics and physics (favorite areas are number theory, statistics, and electrodynamics) and am hoping to pursue a career as a theoretical physicist. I'm currently working on my [C email program](https://github.com/ChancellorCeti/white-rabbit), improving some of my older projects, and writing more [blog posts](https://ceti.kaush.com). 
+
+Outside of my STEM interests, I also like reading, watching movies, learning languages, and chatting on Discord.
+
+If you want to contact me, send me a friend request on Discord where I go by the name floofydoggo.
+
 <!--
 **ChancellorCeti/ChancellorCeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
